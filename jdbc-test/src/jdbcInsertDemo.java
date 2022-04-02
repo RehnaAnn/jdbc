@@ -5,8 +5,9 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 /*
+ * 
 Author: Rehna Anthru
-Sub: Assignment on JDBC :Insert
+Sub: Assignment on JDBC :Insert demo
 Date: 04/01/2022
 */
 
